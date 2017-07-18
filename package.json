@@ -1,0 +1,21 @@
+{
+  "name": "livewell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "http-server": "^0.10.0",
+    "node": "0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
